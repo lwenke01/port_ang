@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+html, body {
+  height:100%;
+  margin-left: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.wrapper {
+  padding: 30px;
+min-height: 100%;
+
+
+}
+mat-tab-list {
+  position: fixed;
+top: 0px;
+width:100%;
+z-index: 1;
+/* background: #252830; */
+height:30px;
+margin-left: 40px;
+  background-color: red;
+}

@@ -1,0 +1,12 @@
+.project-block {
+  width: 100%;
+  display: flex;
+    justify-content: center;
+
+  /* flex-flow: wrap; */
+}
+
+.project {
+ padding: 20px;
+ /* width: 150px; */
+}

@@ -1,0 +1,15 @@
+.title {
+  position: fixed;
+  top: 0px;
+  width:100%;
+  z-index: 2;
+
+  height:70px;
+  margin-left: 40px;
+}
+
+h1 {
+  color: #369;
+font-family: 'Open Sans', sans-serif;
+  font-size: 250%;
+}

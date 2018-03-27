@@ -1,0 +1,19 @@
+/* @import '~@angular/material/prebuilt-themes/purple-green.css'; */
+
+.top{
+  position: fixed;
+top: 20px;
+width:100%;
+z-index: 2;
+/* background: #252830; */
+height:30px;
+margin-left: 40px;
+
+}
+
+.content {
+  /* background-color: white;
+  color: red; */
+  height: 90%;
+  margin: 30px;
+}
